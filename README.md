@@ -6,6 +6,8 @@ Is a tool that picks domains from web archive, checks the domains for interestin
 
 git clone https://github.com/mainajackson95/kaiver.git
 
+## Usage
+
 ./setup.sh
 
 ./kaiver.sh
